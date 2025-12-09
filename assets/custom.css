@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'DigitFont';
+    src: url('/assets/DSEG7ClassicMini-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'CustomFont', sans-serif;
+}
